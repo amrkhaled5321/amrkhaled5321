@@ -1,197 +1,167 @@
-# Hi, I'm Amr Khaled Abdelraouf 👋
 
-### AI / Machine Learning Engineer | Generative AI | LLMs | RAG | AI Agents
+<div align="center">
 
-I am an Artificial Intelligence graduate from Misr University for Science and Technology (MUST), passionate about building intelligent systems and solving real-world problems through AI and Machine Learning.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Amr%20Khaled&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=55&descSize=18" width="100%" />
 
-I have **6 months of freelance experience** delivering AI/ML solutions for international clients in Sweden and Bahrain. My experience covers the complete machine learning lifecycle, from data preprocessing and feature engineering to model development, evaluation, validation, and deployment.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineer;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+RAG;Building+Intelligent+AI+Solutions" alt="Typing SVG" />
 
-I enjoy turning complex ideas into practical AI applications, especially in Generative AI, Large Language Models, RAG systems, and intelligent automation.
-
----
-
-## 🚀 What I Do
-
-- **Machine Learning:** Supervised & Unsupervised Learning, Classification, Clustering, Anomaly Detection.
-- **Deep Learning:** CNNs, RNNs, Transformers, Transfer Learning, Attention Mechanisms.
-- **Generative AI:** LLM Applications, Prompt Engineering, Fine-tuning (LoRA / PEFT).
-- **RAG Systems:** Document Processing, Chunking, Embeddings, Vector Databases, Semantic Search, Re-ranking.
-- **AI Agents:** Tool Calling, Function Calling, Agent Memory, Multi-Agent Workflows.
-- **Computer Vision:** Image Classification, Object Detection, Thermal Image Analysis.
-- **NLP:** Text Processing, Sentiment Analysis, TF-IDF, Text Embeddings.
-- **Data Science:** EDA, Feature Engineering, Statistical Testing, Model Evaluation, Data Visualization.
-- **MLOps & Deployment:** FastAPI, Docker, Model Monitoring, n8n Automation.
+</div>
 
 ---
 
-## 💼 Professional Experience
+## 👨‍💻 About Me
 
-**Freelance AI / Machine Learning Engineer**
+I'm **Amr Khaled Abdelraouf**, an Artificial Intelligence graduate from **Misr University for Science and Technology (MUST)**.
 
-*Remote | 6 Months | International Clients*
+I'm passionate about building intelligent systems and solving real-world problems using Artificial Intelligence, Machine Learning, and Generative AI.
 
-- 🇸🇪 **Sweden Client:** Developed a thermal imaging and machine learning pipeline to classify different metals (Aluminium, Copper, and Stainless Steel) using FLIR infrared image sequences.
-- 🇧🇭 **Bahrain Client:** Developed a machine learning pipeline for network threat detection using supervised classification, anomaly detection, and model interpretability.
-- Worked directly with international clients to understand requirements, validate technical results, answer scientific questions, and deliver documented solutions.
-
----
-
-## 🧠 Featured Projects
-
-### 1. Enterprise Knowledge Assistant – RAG-Powered AI Agent
-**Technologies:** Python, LangChain, OpenAI API, Gemini API, Hugging Face, ChromaDB, FAISS, FastAPI, Docker, n8n.
-
-- Built an end-to-end RAG application that answers questions from PDFs, DOCX files, and web pages with source citations.
-- Implemented document chunking, embeddings, semantic search, metadata filtering, and re-ranking.
-- Developed an AI agent with function calling, conversational memory, and external tool integrations.
-- Added guardrails and structured outputs to improve response reliability.
-- Automated workflows using n8n and evaluated retrieval quality using RAGAS.
-
-### 2. Thermal Imaging & Machine Learning – Metal Classification
-**Technologies:** Python, FLIR Science File SDK, scikit-learn, NumPy, SciPy, Matplotlib.
-
-- Developed a non-contact metal classification pipeline using thermal infrared image sequences.
-- Extracted temperature measurements and engineered 46 statistical, spatial, regional, and temporal features.
-- Compared SVM, KNN, and Random Forest models.
-- Used permutation testing, learning curves, and hold-out validation on an unseen trial to assess model generalization.
-
-### 3. Network Threat Detection – Machine Learning Pipeline
-**Technologies:** Python, scikit-learn, Supervised Learning, Unsupervised Learning.
-
-- Developed a pipeline to classify network traffic into benign and threat categories.
-- Applied feature engineering and compared multiple classification models.
-- Used anomaly detection to identify unusual network behavior.
-- Analyzed feature importance and documented model limitations and recommendations.
-
-### 4. AI-Based Student Housing & Roommate Matching
-**Technologies:** Python, Django, Flutter, MS SQL Server, K-Means, Cosine Similarity, Genetic Algorithms.
-
-**Role: AI Developer – Graduation Project**
-
-- Built an intelligent matching engine to recommend compatible roommates and student housing.
-- Applied rule-based filtering to remove incompatible candidates.
-- Used K-Means clustering to group students with similar lifestyles.
-- Applied Cosine Similarity to calculate roommate compatibility.
-- Used Genetic Algorithms to optimize recommendations based on price, compatibility, and location.
-
-### 5. AI-Powered Real-Time Accident Detection
-**Technologies:** Python, Computer Vision, Deep Learning, MobileNetV2, YOLOv8.
-
-- Developed a two-stage CCTV accident detection framework.
-- Used MobileNetV2 with transfer learning to classify accident and non-accident scenes, achieving approximately 97% accuracy.
-- Developed a severity classification stage (Minor, Substantial, Critical).
-- Integrated YOLOv8-nano for vehicle localization and scene context.
-
-### 6. AI-Powered Resume Screening
-**Technologies:** Python, NLP, TF-IDF, Logistic Regression, SVM, Cosine Similarity.
-
-- Developed an NLP-based system to extract and process resumes and job descriptions.
-- Used TF-IDF and cosine similarity to measure candidate-job relevance.
-- Applied Logistic Regression and SVM to classify and rank candidates based on profile-job fit.
+- 🎓 Artificial Intelligence Graduate – MUST (2022–2026)
+- 💼 6 months of freelance AI/ML experience
+- 🌍 Worked with international clients in Sweden and Bahrain
+- 🤖 Interested in Machine Learning, Deep Learning, LLMs, RAG, and AI Agents
+- 🚀 Always learning and building practical AI solutions
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
-- Python
-- C++
+### Programming & Data Science
 
-**Machine Learning & Deep Learning**
-- Scikit-learn
-- TensorFlow
-- CNNs, RNNs, Transformers
-- SVM, Random Forest, KNN, Logistic Regression
-- K-Means Clustering
-- Feature Engineering & Model Validation
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github" />
+</p>
 
-**Generative AI & LLM Ecosystem**
-- LangChain
-- LlamaIndex
-- Hugging Face
-- OpenAI API
-- Gemini API
-- LoRA / PEFT
-- Prompt Engineering
+### AI & Machine Learning
 
-**RAG & Vector Databases**
-- FAISS
-- ChromaDB
-- Pinecone
-- Text Embeddings
-- Semantic Search
-- Re-ranking
-- RAGAS
+`Scikit-learn` `TensorFlow` `PyTorch` `Pandas` `NumPy` `SciPy`
 
-**Data Science & Analytics**
-- Pandas
-- NumPy
-- SciPy
-- Matplotlib
-- Seaborn
-- SQL Server
-- Statistical Testing
+`Machine Learning` `Deep Learning` `CNN` `RNN` `Transformers`
 
-**Deployment & Automation**
-- FastAPI
-- Docker
-- Git & GitHub
-- n8n
-- REST APIs
-- Webhooks
-- MLOps Fundamentals
+### Generative AI & LLMs
+
+`LangChain` `LlamaIndex` `Hugging Face` `RAG` `FAISS`
+
+`ChromaDB` `Pinecone` `LoRA` `PEFT` `RAGAS` `AI Agents`
+
+### Tools & Deployment
+
+`FastAPI` `Docker` `n8n` `Jupyter Notebook` `Google Colab`
+
+---
+
+## 💼 Professional Experience
+
+### Freelance AI/ML Engineer
+**6 Months | International Clients**
+
+**🇸🇪 Sweden – Thermal Imaging & Metal Classification**
+- Developed a Machine Learning pipeline for thermal imaging data.
+- Worked with FLIR infrared sequences.
+- Built classification models to distinguish Aluminium, Copper, and Stainless Steel.
+- Extracted 46 features and evaluated multiple ML algorithms.
+
+**🇧🇭 Bahrain – Network Threat Detection**
+- Developed a Machine Learning pipeline for network threat detection.
+- Applied supervised classification and anomaly detection.
+- Used model interpretability techniques to understand predictions.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Enterprise Knowledge Assistant – RAG Agent
+- Built a Retrieval-Augmented Generation system for answering questions from documents and web pages.
+- Supported PDF, DOCX, and web content.
+- Implemented chunking, embeddings, semantic search, metadata filtering, and re-ranking.
+- Integrated LangChain tools, memory, and guardrails.
+- Used FastAPI, Docker, n8n, and RAGAS.
+
+**Technologies:** `Python` `LangChain` `RAG` `FAISS` `FastAPI` `Docker`
+
+### 2. Thermal Metal Classification
+- Developed ML models using FLIR thermal imaging data.
+- Extracted 46 features.
+- Compared SVM, KNN, and Random Forest.
+- Evaluated models using permutation tests and learning curves.
+
+**Technologies:** `Python` `Scikit-learn` `FLIR SDK` `SVM` `Random Forest`
+
+### 3. Network Threat Detection
+- Developed a network threat detection pipeline.
+- Combined supervised classification with anomaly detection.
+- Applied interpretability techniques.
+
+**Technologies:** `Python` `Machine Learning` `Anomaly Detection`
+
+### 4. Student Housing & Roommate Matching
+- Graduation project for student housing and roommate matching.
+- Used K-Means clustering, cosine similarity, and Genetic Algorithms.
+- Developed the system using Django, Flutter, and SQL Server.
+
+**Technologies:** `Python` `K-Means` `Genetic Algorithms` `Django` `Flutter`
+
+### 5. Accident Detection System
+- Developed an accident detection system using MobileNetV2.
+- Achieved approximately 97% accuracy.
+- Included accident severity classification and YOLOv8-nano.
+
+**Technologies:** `Python` `TensorFlow` `MobileNetV2` `YOLOv8`
+
+### 6. AI Resume Screening System
+- Built an NLP-based resume screening system.
+- Used TF-IDF and machine learning models.
+- Applied cosine similarity for matching resumes with job descriptions.
+
+**Technologies:** `Python` `NLP` `TF-IDF` `SVM` `Logistic Regression`
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amrkhaled5321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrkhaled5321&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=amrkhaled5321&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🎓 Education & Training
 
-**Bachelor of Artificial Intelligence**  
-Misr University for Science and Technology (MUST) | 2022 – 2026
-
-**Digital Egypt Pioneers Initiative (DEPI)**  
-Generative AI Professional Track | July 2025 – December 2025
-- Transformers and Attention Mechanisms.
-- Personalized chatbot development.
-- MLOps, deployment, version control, and model monitoring.
-
-**National Telecommunication Institute (NTI)**  
-Digital Egypt Youth Program – Machine Learning | May 2024 – July 2024
-- Linear & Logistic Regression.
-- Decision Trees and Random Forest.
-- SVM, KNN, Naive Bayes.
-- K-Means Clustering.
-- End-to-end Machine Learning Workflow.
+- **B.Sc. in Artificial Intelligence** – Misr University for Science and Technology (MUST), 2022–2026
+- **Generative AI Professional Track** – Digital Egypt Pioneers Initiative (DEPI), July–December 2025
+- **Machine Learning Training** – National Telecommunication Institute (NTI), May–July 2024
 
 ---
 
-## 🌱 Currently Exploring
+## 📫 Connect With Me
 
-- Advanced RAG Architectures and Retrieval Optimization.
-- Agentic AI and Multi-Agent Systems.
-- LLM Fine-tuning and Model Evaluation.
-- Production-ready AI Applications and MLOps.
+<div align="center">
 
----
+<a href="mailto:amrkhaledabdelraouf@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 🤝 Soft Skills
+<a href="https://www.linkedin.com/in/amr-khaled-basuoniy-090911275">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- Problem Solving & Critical Thinking.
-- Client Communication.
-- Teamwork & Collaboration.
-- Time Management.
-- Adaptability.
-- Attention to Detail.
+<a href="https://github.com/amrkhaled5321">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
-
-## 📫 Let's Connect!
-
-I'm always interested in connecting with AI enthusiasts, developers, researchers, and professionals to exchange knowledge and collaborate on exciting projects.
-
-- **Email:** amrkhaledabdelraouf@gmail.com
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/amr-khaled-basuoniy-090911275)
-- **Location:** Egypt
+</div>
 
 ---
 
-⭐ *"Building intelligent solutions, turning ideas into reality, and continuously learning to push the boundaries of AI."*
+<div align="center">
+
+### 💡 "Turning ideas into intelligent solutions."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" />
+
+</div>
