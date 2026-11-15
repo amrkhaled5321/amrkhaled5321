@@ -9,21 +9,21 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm **Amr Khaled Abdelraouf**, an Artificial Intelligence graduate from **Misr University for Science and Technology (MUST)**.
 
 I'm passionate about building intelligent systems and solving real-world problems using Artificial Intelligence, Machine Learning, and Generative AI.
 
-- 🎓 Artificial Intelligence Graduate – MUST (2022–2026)
-- 💼 6 months of freelance AI/ML experience
-- 🌍 Worked with international clients in Sweden and Bahrain
-- 🤖 Interested in Machine Learning, Deep Learning, LLMs, RAG, and AI Agents
-- 🚀 Always learning and building practical AI solutions
+-  Artificial Intelligence Graduate – MUST (2022–2026)
+-  6 months of freelance AI/ML experience
+-  Worked with international clients in Sweden and Bahrain
+-  Interested in Machine Learning, Deep Learning, LLMs, RAG, and AI Agents
+-  Always learning and building practical AI solutions
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming & Data Science
 
@@ -49,7 +49,7 @@ I'm passionate about building intelligent systems and solving real-world problem
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Freelance AI/ML Engineer
 **6 Months | International Clients**
@@ -67,7 +67,7 @@ I'm passionate about building intelligent systems and solving real-world problem
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. Enterprise Knowledge Assistant – RAG Agent
 - Built a Retrieval-Augmented Generation system for answering questions from documents and web pages.
@@ -116,7 +116,7 @@ I'm passionate about building intelligent systems and solving real-world problem
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -130,7 +130,7 @@ I'm passionate about building intelligent systems and solving real-world problem
 
 ---
 
-## 🎓 Education & Training
+##  Education & Training
 
 - **B.Sc. in Artificial Intelligence** – Misr University for Science and Technology (MUST), 2022–2026
 - **Generative AI Professional Track** – Digital Egypt Pioneers Initiative (DEPI), July–December 2025
@@ -138,7 +138,7 @@ I'm passionate about building intelligent systems and solving real-world problem
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
